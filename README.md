@@ -1,5 +1,7 @@
 # rl-english-agents
 
+[Demo video](https://www.youtube.com/watch?v=xQRSR4TadaM)
+
 An interactive experiment in evolving text-producing agents, with a Python simulation backend and a live web dashboard.
 
 ## Overview
