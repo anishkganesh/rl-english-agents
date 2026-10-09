@@ -1,4 +1,4 @@
-# rl.english
+# rl-english-agents
 
 An interactive experiment in evolving text-producing agents, with a Python simulation backend and a live web dashboard.
 
