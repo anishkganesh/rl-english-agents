@@ -58,8 +58,8 @@ The scorer includes optional `distilgpt2` perplexity and `all-MiniLM-L6-v2` rele
 Prerequisites: Python compatible with the backend dependencies and Node.js/npm compatible with the frontend dependencies. Use separate terminals for backend and frontend. Create and activate a Python virtual environment before installing packages.
 
 ```bash
-git clone https://github.com/anishkganesh/rl.english.git
-cd rl.english/backend
+git clone https://github.com/anishkganesh/rl-english-agents.git
+cd rl-english-agents/backend
 python -m venv .venv
 pip install -r requirements.txt
 ```
